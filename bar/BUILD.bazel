@@ -1,0 +1,5 @@
+java_library(
+  name = "bar",
+  srcs = ["Record.java"],
+  visibility = ["//visibility:public"]
+)
